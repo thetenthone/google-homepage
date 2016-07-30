@@ -1,0 +1,22 @@
+img {
+	height: 50%;
+	width: 50%;
+	margin: 50px;
+}
+
+form {
+	border: 2px solid blue;
+	
+	background-position: 10px 10px;
+	padding-right: -40px
+
+}
+
+input[type=search] {
+	border: none;
+	background-color: gray;
+	text-align: center;
+	padding: 14px 20px;
+	background-image: url('styles/mic.jpg');
+
+}
